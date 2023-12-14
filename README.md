@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 <div>
-<h1 align="center">  :hammer_and_wrench: Languages and Tools : </h1>
+<h1 align="center">   Languages and Tools : </h1>
 <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Anaconda" width="90" height="90"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C-plusplus" alt="C-plusplus" width="70" height="70"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="css" alt="css" width="80" height="80"/>&nbsp;
